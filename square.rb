@@ -11,6 +11,7 @@ class Square
     @y2 = rand(@height) ; @y2_dir = -speed
   end
 
+
   def draw(window)
 
     # step 1: draw current lines
